@@ -1,0 +1,11 @@
+.mainContainer {
+    background: white;
+    border-radius: 20px;
+    width: 600px;
+    min-height: 310px;
+    margin: 30px auto;
+}
+.footer {
+    text-align: center;
+    font-size: 18px;
+}
